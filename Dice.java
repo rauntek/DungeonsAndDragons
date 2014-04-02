@@ -2,8 +2,8 @@ import java.util.Random;
 
 public class Dice
 {
-    int sides;
-    Random rand;
+    private int sides;
+    private Random rand;
 	
     public Dice()
     {
